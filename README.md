@@ -1,2 +1,2 @@
-# rmuti-gallery-qa-test
+# rmuti-gallery-playwright-automation-test
 Automated testing scripts
